@@ -1,0 +1,11 @@
+{
+  "name": "ma2q9",
+  "version": "1.0.0",
+  "description": "Question 9, Workflow2 MA2",
+  "main": "index.js",
+  "author": "Pejyuu <marianne@mholmen.no>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
